@@ -163,7 +163,9 @@ function renderCards() {
               <!-- Image Side -->
               <div class="w-full md:w-1/2 relative group parallax-wrapper" data-speed="0.05">
                 <div class="reveal-on-scroll relative aspect-[4/3] overflow-hidden rounded-sm border border-neutral-800 bg-brand-gray/50">
-                  <div class="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent z-10 mix-blend-multiply transition-opacity duration-500 group-hover:opacity-50"></div>
+                  <div class="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent z-10 mix-blend-multiply transition-opacity duration-500 group-hover:opacity-30"></div>
+
+
                   
                   <img 
                     src="./images/${index + 1}.png" 
