@@ -10,19 +10,19 @@ const shoeHistory = [
   },
   {
     id: 'v2',
-    year: 2002,
+    year: 2001,
     name: 'Barricade II',
     description: "Refining the beast. The second iteration improved breathability without sacrificing the legendary toughness required for the pro tour.",
     features: [],
-    imageSeed: 'barricade2002'
+    imageSeed: 'barricade2001'
   },
   {
     id: 'v3',
-    year: 2004,
+    year: 2003,
     name: 'Barricade III',
     description: "A lighter chassis for a faster game. The B3 introduced a more streamlined look while maintaining the 'brick wall' defense.",
     features: [],
-    imageSeed: 'barricade2004'
+    imageSeed: 'barricade2003'
   },
   {
     id: 'v4',
@@ -58,11 +58,11 @@ const shoeHistory = [
   },
   {
     id: 'v8',
-    year: 2014,
+    year: 2013,
     name: 'Barricade 8',
     description: "Ventilation revolution. The introduction of the Kurim upper provided a unique grid-like structure for airflow and flexibility.",
     features: [],
-    imageSeed: 'barricade2014'
+    imageSeed: 'barricade2013'
   },
   {
     id: 'v9',
@@ -74,35 +74,35 @@ const shoeHistory = [
   },
   {
     id: 'v10',
-    year: 2016,
-    name: 'Barricade 2016 Boost',
+    year: 2017,
+    name: 'Barricade 2017 Boost',
     description: "Energy injection. For the first time, Boost technology was integrated into the heel, saving joints on hard courts.",
     features: [],
-    imageSeed: 'barricade2016'
+    imageSeed: 'barricade2017'
   },
   {
     id: 'v11',
-    year: 2018,
-    name: 'Barricade 2018',
+    year: 2022,
+    name: 'Barricade 2022',
     description: "The seamless warrior. Using a forged mesh upper, it provided dynamic support that moved with the foot during slides.",
     features: [],
-    imageSeed: 'barricade2018'
+    imageSeed: 'barricade2022'
   },
   {
     id: 'v12',
-    year: 2021,
+    year: 2024,
     name: 'Barricade Reborn',
     description: "The legend returns after a hiatus. Featuring a bold 'ADIDAS' branding on the medial side and a new torsion system.",
     features: [],
-    imageSeed: 'barricade2021'
+    imageSeed: 'barricade2024'
   },
   {
     id: 'v13',
-    year: 2023,
+    year: 2025,
     name: 'Barricade 13',
     description: "Refining the rebirth. Smoother transitions and a more adaptable upper make this the most playable Barricade yet.",
     features: [],
-    imageSeed: 'barricade2023'
+    imageSeed: 'barricade2025'
   },
   {
     id: 'v14',
@@ -163,7 +163,7 @@ function renderCards() {
               <!-- Image Side -->
               <div class="w-full md:w-1/2 relative group parallax-wrapper" data-speed="0.05">
                 <div class="reveal-on-scroll relative aspect-[4/3] overflow-hidden rounded-sm border border-neutral-800 bg-brand-gray/50">
-                  <div class="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent z-10 mix-blend-multiply transition-opacity duration-500 group-hover:opacity-30"></div>
+                  <div class="absolute inset-0 bg-gradient-to-t from-black/20 to-transparent z-10 mix-blend-multiply transition-opacity duration-500 group-hover:opacity-30"></div>
 
 
                   
